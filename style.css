@@ -1,0 +1,12 @@
+.container1 {
+    display: flex;
+    justify-content: center;
+    
+}
+.calculator {
+    background-color: grey;
+    width: 400px;
+    height: 600px;
+    border-radius: 25px;
+
+}
