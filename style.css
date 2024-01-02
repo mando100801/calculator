@@ -42,17 +42,29 @@
 }
 
 .container4 {
+    display: flex;
     flex-grow: 1;
 }
 
 .container5 {
+    display: flex;
     flex-grow: 1;
 }
 
 .container6 {
+    display:flex;
     flex-grow: 1;
 }
 
 .container7 {
+    display: flex;
+    flex-grow: 1;
+}
+
+.small {
+    flex-grow: 1;
+}
+
+.middle {
     flex-grow: 1;
 }
